@@ -213,7 +213,6 @@ span
 </td>
 </tr>
 
-
 <tr>
 <td><b>Payment Option:</b></td>
 <td><input type="text" name="Paymentoption" size="30">
@@ -221,7 +220,6 @@ span
   <br><br>
 </td>
 </tr>
-
 
 <tr>
 <td><input type="reset" value="Reset"></td>
